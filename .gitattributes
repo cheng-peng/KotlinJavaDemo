@@ -1,1 +1,2 @@
+### 所有的.kt 文件全部转为java  这个是用来修改github语言分类的
 *.kt linguist-language=java
